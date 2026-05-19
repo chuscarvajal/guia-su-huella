@@ -1,12 +1,12 @@
 import { Award, Settings, Zap, Clock, Star, Heart } from "lucide-react";
 
 const features = [
-  { icon: Award,    title: "4.8★ en Google",              desc: "Más de 41 reseñas de clientes satisfechos avalan nuestra escuela. Somos uno de los centros caninos mejor valorados de La Rioja, con resultados que hablan por sí solos." },
-  { icon: Settings, title: "Adiestramiento Personalizado", desc: "Cada perro y cada familia son únicos. Adaptamos el programa a vuestras necesidades concretas, ya sea para cachorros, adultos, o perros con problemas específicos de conducta." },
-  { icon: Zap,      title: "Club Agility Oficial",        desc: "Sede del Campeonato de La Rioja de Agility. Nuestro club compite a nivel regional y nacional, con instalaciones de obstáculos homologadas y entrenamientos semanales para todos los niveles." },
-  { icon: Clock,    title: "Club Mushing",                desc: "Una de las pocas escuelas de La Rioja con programa de mushing activo. Disfruta de una disciplina apasionante que refuerza el vínculo entre el perro y su dueño de forma única." },
-  { icon: Star,     title: "Métodos Respetuosos",         desc: "Trabajamos exclusivamente con técnicas positivas y respetuosas con el animal. Sin castigos, sin fuerza. Solo comunicación, confianza y refuerzo para conseguir resultados duraderos." },
-  { icon: Heart,    title: "Comunidad Activa",            desc: "Síguenos en Instagram y Facebook para ver fotos de nuestros perros, consejos de adiestramiento, resultados de competiciones y toda la actividad de la escuela en tiempo real." },
+  { icon: Award,    title: "5.0★ en Google",              desc: "Valoración perfecta en Google. Nuestros clientes destacan el trato humano, la profesionalidad y los resultados reales que obtienen con sus perros desde las primeras sesiones." },
+  { icon: Heart,    title: "Solo Refuerzo Positivo",      desc: "Trabajamos exclusivamente con técnicas amables y sin castigos. Fomentamos el vínculo entre el perro y su dueño a través de la comunicación, la confianza y el juego." },
+  { icon: Settings, title: "Para Todos los Niveles",      desc: "Ya tengas un cachorro que empieza o un adulto con problemas de conducta, nuestros programas se adaptan a cada caso. No hace falta experiencia previa para empezar." },
+  { icon: Zap,      title: "Entorno Natural y Relajado",  desc: "Las sesiones se desarrollan en espacios naturales de Sevilla, lejos del estrés urbano. Un ambiente tranquilo favorece el aprendizaje y la socialización del perro." },
+  { icon: Clock,    title: "Horario Flexible",            desc: "Atendemos mañanas y tardes para adaptarnos a tu agenda. Mañanas de 9:00 a 14:00 y tardes de 17:00 a 20:30. Consulta disponibilidad y reserva tu sesión." },
+  { icon: Star,     title: "Resultados Garantizados",     desc: "Técnicas efectivas con seguimiento personalizado después de cada sesión. Te enseñamos a mantener los aprendizajes en casa para que los resultados sean permanentes." },
 ];
 
 export default function WhyChooseUs() {

@@ -3,7 +3,7 @@ export default function FloatingButtons() {
     <div className="fixed bottom-6 right-5 z-50 flex flex-row gap-3">
       {/* Llamada — izquierda */}
       <a
-        href="tel:+34606786988"
+        href="tel:+34603439867"
         aria-label="Llamar ahora"
         className="flex items-center justify-center w-14 h-14 rounded-full shadow-lg transition-transform hover:scale-110 active:scale-95"
         style={{ backgroundColor: "#2b2b2b" }}

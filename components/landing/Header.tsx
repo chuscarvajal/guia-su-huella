@@ -22,8 +22,8 @@ export default function Header() {
             <text x="19" y="25" textAnchor="middle" fontSize="20" fill="white">🐕</text>
           </svg>
           <div className="text-white leading-tight">
-            <span className="block font-black text-base tracking-widest uppercase">Rioiia</span>
-            <span className="block text-[9px] tracking-[0.22em] uppercase font-light opacity-80">Escuela Canina · La Rioja</span>
+            <span className="block font-black text-base tracking-widest uppercase">Guía su Huella</span>
+            <span className="block text-[9px] tracking-[0.22em] uppercase font-light opacity-80">Adiestramiento Canino · Sevilla</span>
           </div>
         </a>
 

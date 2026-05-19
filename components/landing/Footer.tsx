@@ -1,6 +1,6 @@
-import { Phone, MapPin, Instagram } from "lucide-react";
+import { Phone, MapPin, Facebook } from "lucide-react";
 
-const services = ["Adiestramiento Individual","Clases en Grupo","Modificación de Conductas","Club Agility","Club Mushing","Educación Canina"];
+const services = ["Adiestramiento Positivo","Socialización y Conducta","Actividades en Entorno Natural","Obediencia Básica","Modificación de Conducta","Educación Canina"];
 const quickLinks = ["Inicio","Servicios","Por Qué Elegirnos","Galería","Contacto","Reseñas Google"];
 
 export default function Footer() {
@@ -15,12 +15,12 @@ export default function Footer() {
               <text x="19" y="25" textAnchor="middle" fontSize="20" fill="white">🐕</text>
             </svg>
             <div className="text-white leading-tight">
-              <span className="block font-black text-sm tracking-widest uppercase">Rioiia</span>
-              <span className="block text-[8px] tracking-[0.2em] uppercase font-light opacity-70">Escuela Canina</span>
+              <span className="block font-black text-sm tracking-widest uppercase">Guía su Huella</span>
+              <span className="block text-[8px] tracking-[0.2em] uppercase font-light opacity-70">Adiestramiento Canino · Sevilla</span>
             </div>
           </div>
           <p className="text-white/50 text-xs leading-relaxed">
-            Escuela canina en Albelda de Iregua, La Rioja. Adiestramiento, educación, agility y mushing con métodos respetuosos y resultados reales.
+            Adiestramiento canino en Sevilla con métodos positivos y respetuosos. 5.0★ en Google. Socialización, obediencia y educación canina en entorno natural.
           </p>
         </div>
 
@@ -50,23 +50,23 @@ export default function Footer() {
           <ul className="space-y-3 text-white/50 text-xs">
             <li className="flex items-start gap-2">
               <Phone size={12} className="mt-0.5 shrink-0 text-white/30" />
-              <a href="tel:+34606786988" className="hover:text-white">+34 606 78 69 88</a>
+              <a href="tel:+34603439867" className="hover:text-white">+34 603 43 98 67</a>
             </li>
             <li className="flex items-start gap-2">
               <MapPin size={12} className="mt-0.5 shrink-0 text-white/30" />
-              <span>Cam. la Plana, 26120 Albelda de Iregua, La Rioja</span>
+              <span>Sevilla, España</span>
             </li>
             <li className="flex items-start gap-2">
-              <Instagram size={12} className="mt-0.5 shrink-0 text-white/30" />
-              <a href="https://www.instagram.com/rioiia.escuelacanina/" target="_blank" rel="noopener noreferrer" className="hover:text-white">@rioiia.escuelacanina</a>
+              <Facebook size={12} className="mt-0.5 shrink-0 text-white/30" />
+              <a href="https://www.facebook.com/guiasuhuella" target="_blank" rel="noopener noreferrer" className="hover:text-white">facebook.com/guiasuhuella</a>
             </li>
           </ul>
 
           {/* Facebook block */}
           <div className="bg-[#3b5998]/80 rounded p-4 text-xs text-white/70 mt-5">
-            <p className="font-semibold text-white mb-1">Rioiia Escuela Canina</p>
-            <p className="text-[11px] leading-relaxed">Síguenos en Facebook para fotos de nuestros perros, resultados de competiciones y novedades de la escuela.</p>
-            <a href="https://www.facebook.com/profile.php?id=100042208346693" target="_blank" rel="noopener noreferrer"
+            <p className="font-semibold text-white mb-1">Guía su Huella</p>
+            <p className="text-[11px] leading-relaxed">Síguenos en Facebook para fotos de nuestras sesiones, consejos de adiestramiento y novedades.</p>
+            <a href="https://www.facebook.com/guiasuhuella" target="_blank" rel="noopener noreferrer"
               className="mt-3 inline-block text-[11px] border border-white/30 px-3 py-1 hover:bg-white hover:text-[#3b5998] transition-colors">
               Visitar página
             </a>
@@ -77,7 +77,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div className="border-t border-white/10">
         <div className="container py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] text-white/30">
-          <p>© {new Date().getFullYear()} Rioiia Escuela Canina. Todos los derechos reservados.</p>
+          <p>© {new Date().getFullYear()} Guía su Huella. Todos los derechos reservados.</p>
           <a href="#" className="hover:text-white/60 transition-colors">Política de Privacidad</a>
         </div>
       </div>

@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Rioiia Escuela Canina | Adiestramiento en La Rioja",
-  description: "Escuela canina en Albelda de Iregua, La Rioja. Adiestramiento y educación canina, modificación de conductas, Club Agility y Club Mushing. 4.8★ en Google.",
+  title: "Guía su Huella | Adiestramiento Canino en Sevilla",
+  description: "Adiestramiento canino en Sevilla con métodos positivos. Socialización, obediencia y educación canina en entorno natural. 5.0★ en Google.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

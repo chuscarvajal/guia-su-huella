@@ -4,21 +4,21 @@ import { ArrowRight } from "lucide-react";
 const services = [
   {
     num: "01",
-    title: "Adiestramiento y Educación Canina",
+    title: "Adiestramiento Positivo",
     img: "https://images.unsplash.com/photo-1601758124510-52d02ddb7cbd?w=740&q=80",
-    desc: "Clases individuales y grupales para todas las razas y edades. Enseñamos a tu perro las bases de la obediencia y la convivencia, y a ti cómo mantener esos aprendizajes en el día a día.",
+    desc: "Educamos a tu perro con técnicas amables y efectivas basadas en el refuerzo positivo. Sin castigos, sin fuerza. Trabajamos la obediencia, las órdenes básicas y los hábitos de convivencia desde el respeto.",
   },
   {
     num: "02",
-    title: "Modificación de Conductas",
+    title: "Socialización y Conducta",
     img: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=740&q=80",
-    desc: "¿Tu perro tiene problemas de agresividad, ansiedad o miedos? Trabajamos de forma profesional y respetuosa para corregir comportamientos no deseados y mejorar la calidad de vida de tu mascota.",
+    desc: "Ayudamos a tu perro a relacionarse correctamente con personas, otros animales y su entorno. Trabajamos los miedos, la ansiedad y los comportamientos no deseados con paciencia y profesionalidad.",
   },
   {
     num: "03",
-    title: "Club Agility y Club Mushing",
+    title: "Actividades en Entorno Natural",
     img: "https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?w=740&q=80",
-    desc: "Instalaciones oficiales del Campeonato de La Rioja de Agility. Únete a nuestro club y disfruta del deporte canino en sus dos disciplinas más apasionantes: agilidad y mushing.",
+    desc: "Sesiones de juegos, socialización y adiestramiento en espacios naturales y relajados de Sevilla. Ideal para todos los niveles, desde cachorros hasta adultos, guiadas siempre por profesionales.",
   },
 ];
 

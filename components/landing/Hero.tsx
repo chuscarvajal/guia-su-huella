@@ -5,21 +5,21 @@ import { ChevronLeft, ChevronRight, ChevronDown } from "lucide-react";
 const slides = [
   {
     img: "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=1920&q=80",
-    headline1: "RIOIIA ESCUELA CANINA",
-    headline2: "ALBELDA DE IREGUA · LA RIOJA",
-    body: "Adiestramiento y educación canina profesional en La Rioja. Trabajamos con todas las razas, desde cachorros hasta adultos, con métodos respetuosos y eficaces adaptados a cada perro y familia.",
+    headline1: "GUÍA SU HUELLA",
+    headline2: "ADIESTRAMIENTO CANINO · SEVILLA",
+    body: "Educación canina con métodos positivos y respetuosos en Sevilla. Ayudamos a entender y mejorar la conducta de tu perro en un entorno natural y relajado, adaptado a todos los niveles.",
   },
   {
     img: "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=1920&q=80",
-    headline1: "CLUB AGILITY",
-    headline2: "Y CLUB MUSHING",
-    body: "Sede oficial del Campeonato de La Rioja de Agility. Únete a nuestros clubs y descubre la emoción del deporte canino en un entorno profesional con instalaciones de primer nivel.",
+    headline1: "TÉCNICAS AMABLES",
+    headline2: "Y RESULTADOS REALES",
+    body: "Trabajamos con refuerzo positivo para conseguir resultados duraderos. Socialización, obediencia y modificación de conducta con una metodología humana, efectiva y respetuosa con el animal.",
   },
   {
     img: "https://images.unsplash.com/photo-1534351450181-ea9f78427fe8?w=1920&q=80",
-    headline1: "4.8 ESTRELLAS",
-    headline2: "EN GOOGLE · 41 RESEÑAS",
-    body: "La confianza de nuestros clientes nos avala. Modificación de conductas, educación canina y adiestramiento personalizado para que tú y tu perro disfrutéis de una convivencia perfecta.",
+    headline1: "5.0 ESTRELLAS",
+    headline2: "EN GOOGLE · VALORACIÓN PERFECTA",
+    body: "Nuestros clientes nos avalan con la valoración más alta. Actividades guiadas por profesionales del adiestramiento para que tú y tu perro disfrutéis juntos de cada sesión.",
   },
 ];
 
